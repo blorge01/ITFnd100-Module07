@@ -32,7 +32,7 @@ Lastly, the structured error handling is in place, however it does not prevent t
 ### Run from Terminal:
 
  
-![Run from Terminal](https://github.com/blorge01/ITFnd100-Module07/blob/main/Run%20from%20Console.png "Run from Terminal)
+![Run from Terminal](https://github.com/blorge01/ITFnd100-Module07/blob/main/Run%20from%20Console.png "Run from Terminal")
 
 
 
