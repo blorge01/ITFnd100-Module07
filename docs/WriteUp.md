@@ -15,7 +15,7 @@ There are two data inputs: ID and Name and both are comparing to the builtin Pyt
 
 The other part of the assignment is to work with pickling. Although there were only two functions, I chose to create the class PickleFile to practice working with classes, and in case I want to expand on the program in the future and add exception classes. I noticed that the pickle.load(file) only reads one row so it was only returning the first input line on the file to the human. Using a try loop gave it the ability to keep going until all rows were read. (I could not get a for loop to work on this)
 
-![Read data with loop] (https://github.com/blorge01/ITFnd100-Module07/blob/main/read%20data%20with%20loop.png "read data with loop")
+![Read data with loop](https://github.com/blorge01/ITFnd100-Module07/blob/main/read%20data%20with%20loop.png "read data with loop")
 
 ### Data Considerations:
 
