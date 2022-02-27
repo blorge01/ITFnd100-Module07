@@ -35,7 +35,7 @@ Since I used the  isnumeric() as the builtin, it will accept blank/null. I tried
 
 Additionally, the pickle loop prints “None” at the end of the list. I put in the repeating equal sign in the function outside the try loop to see if it was related and it does not appear to be. I have tried other steps to track it down and have not yet found it so it would be a future enhancement to remove the “none”
 
----
+https://github.com/blorge01/ITFnd100-Module07/blob/main/Extra%20None%20after%20read%20from%20pickle.png
 
 Lastly, the structured error handling is in place, however it does not prevent the file from getting bad data. If it raises an error, it still writes to the file. For instance I can enter “ “ and “ “ and get a row with two empty values. I can also enter Id 9B and get an error, but it still saves it to the file and reads it back.
 
@@ -43,7 +43,7 @@ Lastly, the structured error handling is in place, however it does not prevent t
 ### Run from Terminal:
 
  
----
+https://github.com/blorge01/ITFnd100-Module07/blob/main/Run%20from%20Console.png
 
 
 
